@@ -5,6 +5,9 @@ Remote software company
 
 ## Some projects of ours
 - Vash Esports
+- Vash AI
+- Vash Freelance
+- Vash Social
 
 ## Contact
 stan@vashsoftware.nl
