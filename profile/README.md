@@ -1,13 +1,13 @@
 # Vash Software
-Remote software company
+Fully remote, asynchronous software company
 
-**Discord:** https://discord.gg/d7gGntyAku
+## Projects
+### Vash Esports
+A video game event platform for participating in, managing or spectating events.
 
-## Some projects of ours
-- Vash Esports
-- Vash AI
-- Vash Freelance
-- Vash Social
+### Vash Freelance
+We build responsive, modern and customizable websites manually to fit the need of every consumer.
 
 ## Contact
-stan@vashsoftware.nl
+Email: stan@vashsoftware.nl
+Discord: https://discord.gg/d7gGntyAku
